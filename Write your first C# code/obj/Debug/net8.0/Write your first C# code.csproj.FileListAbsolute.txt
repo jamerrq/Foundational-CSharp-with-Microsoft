@@ -1,0 +1,14 @@
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/bin/Debug/net8.0/Write your first C# code
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/bin/Debug/net8.0/Write your first C# code.deps.json
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/bin/Debug/net8.0/Write your first C# code.runtimeconfig.json
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/bin/Debug/net8.0/Write your first C# code.dll
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/bin/Debug/net8.0/Write your first C# code.pdb
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/Write your first C# code.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/Write your first C# code.AssemblyInfoInputs.cache
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/Write your first C# code.AssemblyInfo.cs
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/Write your first C# code.csproj.CoreCompileInputs.cache
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/Write your first C# code.dll
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/refint/Write your first C# code.dll
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/Write your first C# code.pdb
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/Write your first C# code.genruntimeconfig.cache
+/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/Debug/net8.0/ref/Write your first C# code.dll
