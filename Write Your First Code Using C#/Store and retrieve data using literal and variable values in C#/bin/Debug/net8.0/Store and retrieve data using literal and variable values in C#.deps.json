@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Store and retrieve data using literal and variable values in C#/1.0.0": {
+        "runtime": {
+          "Store and retrieve data using literal and variable values in C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store and retrieve data using literal and variable values in C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
