@@ -1,5 +1,30 @@
 # Write your first C# code
 
+## Introduction
+
+The C# programming language allows you to build many types of applications, like:
+
+- 👔 Business applications to capture, analyze and process data.
+- 🎩 Dynamic web applications that can be accessed from a web browser.
+- 🎲 Games, both 2D and 3D.
+- 💰 Financial and scientific applications.
+
+But how do you begin to write an application?
+
+Applications are all made up of many lines of code that work together to achieve a task. **By far, the best way to learn how to code is to write code.** It's encouraged that you write code along with the exercises in this module and the others in this learning path.
+**Writing code yourself in each exercise and solving small coding challenges will accelerate your learning.**
+
+You'll also begin learning small foundational concepts and build on them with continual practice and exploration.
+
+In this module, you'll:
+
+- Write your first lines of C# code.
+- Use two different techniques to print a message as output.
+- Diagnose errors when code is incorrect.
+- Identify different C# syntax elements like operators, classes, and methods.
+
+By the end of this module, you'll be able to write C# code to print a message to the standard output of a console, like the Windows Terminal. These lines of code will give you your first look at the C# syntax, and immediately provide invaluable insights.
+
 ## Learn how it works
 
 To understand how your code works, you need to step back and think about what a programming language is. Consider how your code communicates commands to the computer.
@@ -50,3 +75,7 @@ Don't worry if all of these ideas and terms don't make sense. For now, all you n
 ### Understand the flow of execution
 
 It's important to understand the flow of execution. In other words, your code instructions were executed in order, one line at time, until there were no more instructions to execute. Some instructions will require CPU to wait before it can continue. Other instructions can be used to change the flow of execution.
+
+## Summary
+
+Your goal was to write code that displayed simple messages to an output console while familiarizing yourself with the syntax. You wrote your first lines of code using basic C# syntax. You learned two techniques for displaying literal-string data to the console. You also learned what to look when you come across an error in your code. And lastly, you identified C# syntax elements like classes and methods, and the purpose of several special symbols that are known as operators. You've taken your first steps towards building more sophisticated applications.

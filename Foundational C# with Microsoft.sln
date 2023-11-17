@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Write Your First Code Using C#", "Write Your First Code Using C#", "{2B8D7638-BC75-49A3-A993-7B18C69A5073}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write your first C# code", "Write Your First Code Using C#\Write your first C# code\Write your first C# code.csproj", "{EA775206-7BC4-40E4-B76F-6A08F35ED5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA775206-7BC4-40E4-B76F-6A08F35ED5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA775206-7BC4-40E4-B76F-6A08F35ED5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA775206-7BC4-40E4-B76F-6A08F35ED5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA775206-7BC4-40E4-B76F-6A08F35ED5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EA775206-7BC4-40E4-B76F-6A08F35ED5FB} = {2B8D7638-BC75-49A3-A993-7B18C69A5073}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8954341-590E-4E2C-8932-4D1734B5CB25}
+	EndGlobalSection
+EndGlobal

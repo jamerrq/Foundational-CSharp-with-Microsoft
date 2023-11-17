@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/Write your first C# code.csproj": {}
+    "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write Your First Code Using C#/Write your first C# code/Write your first C# code.csproj": {}
   },
   "projects": {
-    "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/Write your first C# code.csproj": {
+    "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write Your First Code Using C#/Write your first C# code/Write your first C# code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/Write your first C# code.csproj",
+        "projectUniqueName": "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write Your First Code Using C#/Write your first C# code/Write your first C# code.csproj",
         "projectName": "Write your first C# code",
-        "projectPath": "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/Write your first C# code.csproj",
+        "projectPath": "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write Your First Code Using C#/Write your first C# code/Write your first C# code.csproj",
         "packagesPath": "/home/jamerrq/.nuget/packages/",
-        "outputPath": "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write your first C# code/obj/",
+        "outputPath": "/home/jamerrq/dev/c#/Foundational C# with Microsoft/Write Your First Code Using C#/Write your first C# code/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jamerrq/.nuget/NuGet/NuGet.Config"
