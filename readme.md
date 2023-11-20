@@ -37,7 +37,7 @@ setting the stage for your programming adventures.
 - [X] Perform Basic String Formatting in C#
 - [X] Perform Basic Operations on Numbers in C#
 - [X] Guided Project - Calculate and Print Student Grades
-- [ ] Guided Project - Calculate Final GPA
+- [X] Guided Project - Calculate Final GPA
 - [ ] Trophy Write Your First Code Using C#
 
 ### Create and Run Simple C# Console Applications
