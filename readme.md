@@ -34,7 +34,7 @@ setting the stage for your programming adventures.
 
 - [X] Write Your First C# Code
 - [X] Store and Retrieve Data Using Literal and Variable Values in C#
-- [ ] Perform Basic String Formatting in C#
+- [X] Perform Basic String Formatting in C#
 - [ ] Perform Basic String Operations on Numbers in C#
 - [ ] Guided Project - Calculate and Print Student Grades
 - [ ] Guided Project - Calculate Final GPA
