@@ -38,7 +38,9 @@ setting the stage for your programming adventures.
 - [X] Perform Basic Operations on Numbers in C#
 - [X] Guided Project - Calculate and Print Student Grades
 - [X] Guided Project - Calculate Final GPA
-- [ ] Trophy Write Your First Code Using C#
+- [X] Trophy Write Your First Code Using C#
+
+![Write Your First Code Using C#](https://i.imgur.com/gPn41HL.png)
 
 ### Create and Run Simple C# Console Applications
 
