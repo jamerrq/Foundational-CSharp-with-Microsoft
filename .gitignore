@@ -1,1 +1,5 @@
 .vscode/
+
+# C# Dev
+bin/
+obj/
