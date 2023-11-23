@@ -48,7 +48,7 @@ Master the art of creating and running simple C# console applications. Dive into
 the world of console-based programming, where you will gain hands-on experience
 executing your code and seeing it in action.
 
-- [ ] Install and Configure Visual Studio Code for C# Development
+- [X] Install and Configure Visual Studio Code for C# Development
 - [ ] Call Methods From the .NET Class Library Using C#
 - [ ] Add Decision Logic to Your Code Using if, else, and else if statements
   in C#
