@@ -23,3 +23,5 @@ operands like literal and variable values.
 - Perform basic mathematical operations on numeric data
 - Observe implicit type conversion when performing mathematical operations
 - Temporarily convert one data type into another
+
+![](../../imgs/learn.microsoft.com_en-us_training_modules_csharp-basic-operations_8-summary(iPad%20Pro).png)

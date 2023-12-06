@@ -79,3 +79,5 @@ It's important to understand the flow of execution. In other words, your code in
 ## Summary
 
 Your goal was to write code that displayed simple messages to an output console while familiarizing yourself with the syntax. You wrote your first lines of code using basic C# syntax. You learned two techniques for displaying literal-string data to the console. You also learned what to look when you come across an error in your code. And lastly, you identified C# syntax elements like classes and methods, and the purpose of several special symbols that are known as operators. You've taken your first steps towards building more sophisticated applications.
+
+![](../../imgs/learn.microsoft.com_en-us_training_modules_csharp-write-first_7-summary(iPad%20Pro).png)

@@ -14,3 +14,5 @@ This module will guide you through the steps required to develop your Student Gr
 - Work with variables to store and retrieve data
 - Perform basic math operations
 - Format strings to present results
+
+![](../../imgs/learn.microsoft.com_en-us_training_modules_guided-project-calculate-final-gpa_8-summary(iPad%20Pro).png)

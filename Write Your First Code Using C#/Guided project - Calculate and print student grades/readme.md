@@ -26,3 +26,5 @@ that will help format your results.
 - Work with variables to store and retrieve data
 - Perform basic math operations
 - Format strings to present results
+
+![](../../imgs/learn.microsoft.com_en-us_training_modules_guided-project-calculate-print-student-grades_7-summary(iPad%20Pro).png)

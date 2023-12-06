@@ -21,3 +21,5 @@ In this module, you will:
 - Create string data containing Unicode characters.
 - Combine string data into a new string value via concatenation.
 - Combine string data into a new string value via interpolation.
+
+![](../../imgs/learn.microsoft.com_en-us_training_modules_csharp-basic-formatting_8-summary(iPad%20Pro).png)

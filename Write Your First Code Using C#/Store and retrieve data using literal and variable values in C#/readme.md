@@ -333,3 +333,5 @@ Here's what you've learned so far about implicitly typed local variables:
   initialization value.
 - You'll likely see the `var` keyword as you read other people's code; however,
 you should use the data type when possible.
+
+![](../../imgs/learn.microsoft.com_en-us_training_modules_csharp-literals-variables_9-summary(iPad%20Pro).png)
