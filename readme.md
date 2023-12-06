@@ -126,3 +126,11 @@ ensuring your applications run smoothly and deliver the desired results.
 Use what you've learned to pass the exam to earn your Foundational C# with Microsoft Certification.
 
 - [ ] Foundational C# with Microsoft Certification Exam
+
+## References & Resources
+
+- [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+- [IntelliCode for C# Dev Kit (Visual Studio Code Extension)](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
+- [.NET Documentation](https://learn.microsoft.com/en-us/dotnet/?view=net-8.0)
+- [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Foundational C# with Microsoft - freeCodeCamp & Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft)
