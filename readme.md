@@ -49,7 +49,7 @@ the world of console-based programming, where you will gain hands-on experience
 executing your code and seeing it in action.
 
 - [X] Install and Configure Visual Studio Code for C# Development
-- [ ] Call Methods From the .NET Class Library Using C#
+- [X] Call Methods From the .NET Class Library Using C#
 - [ ] Add Decision Logic to Your Code Using if, else, and else if statements
   in C#
 - [ ] Store and Iterate Through Sequences of Data Using Arrays and the foreach
@@ -76,7 +76,7 @@ dynamic choices and respond intelligently to different scenarios.
 - [ ] Challenge Project - Develop Branching and Looping Structures in C#
 - [ ] Trophy - Add Logic to C# Console Applications
 
-### Work with Variable Data in C# Console Applications**
+### Work with Variable Data in C# Console Applications
 
 Discover the versatility of variable data in C# console applications. Harness
 the ability to store and manipulate different types od data, such as numbers and

@@ -94,3 +94,5 @@ Side Bar are used to navigate between files and to access the various tools and
 resources that Visual Studio Code provides. The Editor is where you'll write and
 edit your code. The Side bar displays tools and options, and the Editor displays
 the information that you edit, usually your code.
+
+![](../../imgs/learn.microsoft.com_en-us_training_modules_install-configure-visual-studio-code_9-summary(iPad%20Pro).png)
