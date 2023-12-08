@@ -50,7 +50,7 @@ executing your code and seeing it in action.
 
 - [X] Install and Configure Visual Studio Code for C# Development
 - [X] Call Methods From the .NET Class Library Using C#
-- [ ] Add Decision Logic to Your Code Using if, else, and else if statements
+- [X] Add Decision Logic to Your Code Using if, else, and else if statements
   in C#
 - [ ] Store and Iterate Through Sequences of Data Using Arrays and the foreach
   Statement in C#
