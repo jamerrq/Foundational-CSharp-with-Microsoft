@@ -52,7 +52,7 @@ executing your code and seeing it in action.
 - [X] Call Methods From the .NET Class Library Using C#
 - [X] Add Decision Logic to Your Code Using if, else, and else if statements
   in C#
-- [ ] Store and Iterate Through Sequences of Data Using Arrays and the foreach
+- [X] Store and Iterate Through Sequences of Data Using Arrays and the foreach
   Statement in C#
 - [ ] Create Readable Code with Conventions, Whitespace, and Comments in C#
 - [ ] Guided Project - Develop foreach and if-elseif-else Structures to
