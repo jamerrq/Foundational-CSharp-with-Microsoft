@@ -37,6 +37,7 @@ executing your code and seeing it in action.
 
 <details closed>
 <summary>Achievement</summary>
+
 ![](../imgs/learn.microsoft.com_en-us_training_modules_csharp-arrays_7-summary(iPad%20Pro).png)
 
 </details>
@@ -44,4 +45,5 @@ executing your code and seeing it in action.
 - [ ] Create Readable Code with Conventions, Whitespace, and Comments in C#
 - [ ] Guided Project - Develop foreach and if-elseif-else Structures to
   Process Array Data in C#
+- [ ] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 - [ ] Trophy - Create and Run Simple C# Console Applications

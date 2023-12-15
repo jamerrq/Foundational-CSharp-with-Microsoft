@@ -57,6 +57,7 @@ executing your code and seeing it in action.
 - [ ] Create Readable Code with Conventions, Whitespace, and Comments in C#
 - [ ] Guided Project - Develop foreach and if-elseif-else Structures to
   Process Array Data in C#
+- [ ] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 - [ ] Trophy - Create and Run Simple C# Console Applications
 
 ### Add Logic to C# Console Applications
