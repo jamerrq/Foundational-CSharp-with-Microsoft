@@ -54,7 +54,7 @@ executing your code and seeing it in action.
   in C#
 - [X] Store and Iterate Through Sequences of Data Using Arrays and the foreach
   Statement in C#
-- [ ] Create Readable Code with Conventions, Whitespace, and Comments in C#
+- [X] Create Readable Code with Conventions, Whitespace, and Comments in C#
 - [ ] Guided Project - Develop foreach and if-elseif-else Structures to
   Process Array Data in C#
 - [ ] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
