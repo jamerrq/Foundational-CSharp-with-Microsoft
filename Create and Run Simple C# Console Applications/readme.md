@@ -51,7 +51,15 @@ executing your code and seeing it in action.
 
 </details>
 
-- [ ] Guided Project - Develop foreach and if-elseif-else Structures to
+- [X] Guided Project - Develop foreach and if-elseif-else Structures to
   Process Array Data in C#
+
+<details closed>
+<summary>Achievement</summary>
+
+![](../imgs/learn.microsoft.com_en-us_training_modules_guided-project-arrays-iteration-selection_7-summary(Nest%20Hub%20Max).png)
+
+</details>
+
 - [ ] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 - [ ] Trophy - Create and Run Simple C# Console Applications
