@@ -10,4 +10,4 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 - [X] Guided Project - Calculate Final GPA
 - [X] Trophy Write Your First Code Using C#
 
-![Write Your First Code Using C#](https://i.imgur.com/gPn41HL.png)
+![Write Your First Code Using C#](../imgs/trophies/1.png)

@@ -22,7 +22,7 @@ Al final de este curso, habrás  adquirido las habilidades prácticas y el
 conocimiento necesario para utilizar C# con confianza en la construcción de
 aplicaciones.
 
-![Foundational C# with Microsoft](https://imgur.com/SkXYbON.png)
+![Foundational C# with Microsoft](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/08/cert-page.png)
 
 ## Courses
 
@@ -40,7 +40,7 @@ setting the stage for your programming adventures.
 - [X] Guided Project - Calculate Final GPA
 - [X] Trophy Write Your First Code Using C#
 
-![Write Your First Code Using C#](https://i.imgur.com/gPn41HL.png)
+![Write Your First Code Using C#](./imgs/trophies/1.png)
 
 ### Create and Run Simple C# Console Applications
 
@@ -57,8 +57,10 @@ executing your code and seeing it in action.
 - [X] Create Readable Code with Conventions, Whitespace, and Comments in C#
 - [X] Guided Project - Develop foreach and if-elseif-else Structures to
   Process Array Data in C#
-- [ ] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
-- [ ] Trophy - Create and Run Simple C# Console Applications
+- [X] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+- [X] Trophy - Create and Run Simple C# Console Applications
+
+![Create and Run Simple C# Console Applications](./imgs/trophies/2.png)
 
 ### Add Logic to C# Console Applications
 
@@ -130,6 +132,7 @@ Use what you've learned to pass the exam to earn your Foundational C# with Micro
 
 ## References & Resources
 
+- [Announcing the New Foundational C# Certification with freeCodeCamp](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/)
 - [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [IntelliCode for C# Dev Kit (Visual Studio Code Extension)](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
 - [.NET Documentation](https://learn.microsoft.com/en-us/dotnet/?view=net-8.0)
