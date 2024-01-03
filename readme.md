@@ -69,7 +69,7 @@ decision-making capabilities to your code, enabling your applications to make
 dynamic choices and respond intelligently to different scenarios.
 
 - [X] Evaluate Boolean Expressions to Make Decisions in C#
-- [ ] Control Variable Scope and Logic Using Code Blocks in C#
+- [X] Control Variable Scope and Logic Using Code Blocks in C#
 - [ ] Branch the Flow of Code Using the switch-case Construct in C#
 - [ ] Iterate Through a Code Block Using the for Statement in C#
 - [ ] Add Looping Logic to Your code Using the do-while and while Statements
