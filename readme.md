@@ -1,5 +1,7 @@
 # Foundational C# with Microsoft
 
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
+
 This course offers a comprehensive introduction to C# programming, covering its
 core concepts, syntax, and practical application in software development.
 
@@ -9,18 +11,6 @@ programming principles.
 
 By the end of this course, you will have gained the practical skills and
 knowledge needed to confidently leverage C# for building applications.
-
-[ES] Este curso ofrece una introducción completa a la programación en C#,
-cubriendo sus conceptos fundamentales, sintaxis y aplicación práctica en el
-desarrollo de software.
-
-A través de ejercicios prácticos y proyectos, aprenderás los fundamentos de C#,
-incluyendo variables, tipos de datos, estructuras de control y principios de
-programación orientada a objetos.
-
-Al final de este curso, habrás  adquirido las habilidades prácticas y el
-conocimiento necesario para utilizar C# con confianza en la construcción de
-aplicaciones.
 
 ![Foundational C# with Microsoft](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/08/cert-page.png)
 
@@ -71,7 +61,7 @@ dynamic choices and respond intelligently to different scenarios.
 - [X] Evaluate Boolean Expressions to Make Decisions in C#
 - [X] Control Variable Scope and Logic Using Code Blocks in C#
 - [X] Branch the Flow of Code Using the switch-case Construct in C#
-- [ ] Iterate Through a Code Block Using the for Statement in C#
+- [X] Iterate Through a Code Block Using the for Statement in C#
 - [ ] Add Looping Logic to Your code Using the do-while and while Statements
   in C#
 - [ ] Guided Project - Develop Conditional Branching and Looping Structures in
