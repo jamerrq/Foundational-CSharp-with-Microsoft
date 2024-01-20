@@ -10,7 +10,7 @@ dynamic choices and respond intelligently to different scenarios.
 - [X] Control Variable Scope and Logic Using Code blocks in C#
 - [X] Branch the Flow of Code Using the switch-case Construct in C#
 - [X] Iterate Through a Code Block Using the for Statement in C#
-- [ ] Add Looping Logic to Your Code Using the do-while and while Statements in C#
+- [X] Add Looping Logic to Your Code Using the do-while and while Statements in C#
 - [ ] Guided Project - Develop Conditional Branching and Looping Structures in C#
 - [ ] Challenge Project - Develop Branching and Looping Structures in C#
 - [ ] Trophy - Add Logic to C# Console Applications
