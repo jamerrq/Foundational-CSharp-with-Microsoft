@@ -70,11 +70,13 @@ inteligentemente a diferentes escenarios.
 - [X] Itera a través de un bloque de código usando la instrucción for en C\#
 - [X] Agrega lógica de bucle a tu código usando las instrucciones do-while y
   while en C\#
-- [ ] Proyecto guiado - Desarrolla estructuras de ramificación y bucle
+- [X] Proyecto guiado - Desarrolla estructuras de ramificación y bucle
   condicionales en C\#
-- [ ] Proyecto de desafío - Desarrolla estructuras de ramificación y bucle en
+- [X] Proyecto de desafío - Desarrolla estructuras de ramificación y bucle en
   C\#
-- [ ] Trofeo - Agrega lógica a las aplicaciones de consola de C\#
+- [X] Trofeo - Agrega lógica a las aplicaciones de consola de C\#
+
+![Add Logic to C# Console Applications](./imgs/trophies/3.png)
 
 ### Trabaja con datos de variables en aplicaciones de consola de C\#
 

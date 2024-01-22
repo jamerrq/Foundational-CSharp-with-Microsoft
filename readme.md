@@ -64,10 +64,12 @@ dynamic choices and respond intelligently to different scenarios.
 - [X] Iterate Through a Code Block Using the for Statement in C#
 - [X] Add Looping Logic to Your code Using the do-while and while Statements
   in C#
-- [ ] Guided Project - Develop Conditional Branching and Looping Structures in
+- [X] Guided Project - Develop Conditional Branching and Looping Structures in
   C#
-- [ ] Challenge Project - Develop Branching and Looping Structures in C#
-- [ ] Trophy - Add Logic to C# Console Applications
+- [X] Challenge Project - Develop Branching and Looping Structures in C#
+- [X] Trophy - Add Logic to C# Console Applications
+
+![Add Logic to C# Console Applications](./imgs/trophies/3.png)
 
 ### Work with Variable Data in C# Console Applications
 
