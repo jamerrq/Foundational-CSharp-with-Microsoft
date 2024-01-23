@@ -85,7 +85,7 @@ C\#. Aprovecha la capacidad de almacenar y manipular diferentes tipos de datos,
 como números y texto, a medida que profundizas en los conceptos esenciales de
 variables y manejo de datos.
 
-- [ ] Elije el tipo de datos correcto en tu código C\#
+- [X] Elije el tipo de datos correcto en tu código C\#
 - [ ] Convierte tipos de datos usando técnicas de conversión y conversión en C\#
 - [ ] Realiza operaciones en matrices usando métodos auxiliares en C\#
 - [ ] Dale formato a datos alfanuméricos para su presentación en C\#

@@ -77,7 +77,7 @@ Discover the versatility of variable data in C# console applications. Harness
 the ability to store and manipulate different types od data, such as numbers and
 text, as you delve into the essential concepts of variables and data handling.
 
-- [ ] Choose the Correct Data Type in Your C# Code
+- [X] Choose the Correct Data Type in Your C# Code
 - [ ] Convert Data Types Using Casting and Conversion Techniques in C#
 - [ ] Perform Operations on Arrays Using Helper Methods in C#
 - [ ] Format Alphanumeric Data for Presentation in C#
