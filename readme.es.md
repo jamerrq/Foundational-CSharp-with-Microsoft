@@ -86,7 +86,7 @@ como números y texto, a medida que profundizas en los conceptos esenciales de
 variables y manejo de datos.
 
 - [X] Elije el tipo de datos correcto en tu código C\#
-- [ ] Convierte tipos de datos usando técnicas de conversión y conversión en C\#
+- [X] Convierte tipos de datos usando técnicas de conversión y conversión en C\#
 - [ ] Realiza operaciones en matrices usando métodos auxiliares en C\#
 - [ ] Dale formato a datos alfanuméricos para su presentación en C\#
 - [ ] Modifica el contenido de las cadenas usando métodos de tipo de datos de
