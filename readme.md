@@ -1,4 +1,9 @@
+<div align="center">
+
 # Foundational C# with Microsoft
+![Foundational C# with Microsoft](https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg)
+
+</div>
 
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
@@ -12,11 +17,16 @@ programming principles.
 By the end of this course, you will have gained the practical skills and
 knowledge needed to confidently leverage C# for building applications.
 
-![Foundational C# with Microsoft](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/08/cert-page.png)
 
 ## Courses
 
+<details closed>
+<summary>
+
 ### Write Your First Code Using C\#
+
+</summary>
+
 
 Begin your journey by learning to write your first code using C#. Develop a
 strong foundation as you explore the fundamentals and syntax of the language,
@@ -32,7 +42,14 @@ setting the stage for your programming adventures.
 
 ![Write Your First Code Using C#](./imgs/trophies/1.png)
 
+</details>
+
+<details closed>
+<summary>
+
 ### Create and Run Simple C# Console Applications
+
+</summary>
 
 Master the art of creating and running simple C# console applications. Dive into
 the world of console-based programming, where you will gain hands-on experience
@@ -52,7 +69,14 @@ executing your code and seeing it in action.
 
 ![Create and Run Simple C# Console Applications](./imgs/trophies/2.png)
 
+</details>
+
+<details closed>
+<summary>
+
 ### Add Logic to C# Console Applications
+
+</summary>
 
 Unlock the power of logic in C# console applications. Learn how to add logic and
 decision-making capabilities to your code, enabling your applications to make
@@ -71,7 +95,14 @@ dynamic choices and respond intelligently to different scenarios.
 
 ![Add Logic to C# Console Applications](./imgs/trophies/3.png)
 
+</details>
+
+<details closed>
+<summary>
+
 ### Work with Variable Data in C# Console Applications
+
+</summary>
 
 Discover the versatility of variable data in C# console applications. Harness
 the ability to store and manipulate different types od data, such as numbers and
@@ -87,7 +118,14 @@ text, as you delve into the essential concepts of variables and data handling.
 - [ ] Challenge Project - Work with Variable Data in C#
 - [ ] Trophy - Work with Variable Data in C# Console Applications
 
+</details>
+
+<details closed>
+<summary>
+
 ### Create Methods in C# Console Applications
+
+</summary>
 
 Take your C# console applications to the next level by mastering the art of
 creating methods. Learn how to organize and modularize your code making it more
@@ -100,7 +138,14 @@ manageable, reusable, and efficient.
 - [ ] Challenge Project - Create a Mini-Game
 - [ ] Trophy - Create Methods in C# Console Applications
 
+</details>
+
+<details closed>
+<summary>
+
 ### Debug C# Console Applications
+
+</summary>
 
 Sharpen your troubleshooting skills as you dive into the world of debugging C#
 console applications. Gain the ability to identify and fix issues in your code,
@@ -116,11 +161,20 @@ ensuring your applications run smoothly and deliver the desired results.
   Code
 - [ ] Trophy - Debug C# Console Applications
 
+</details>
+
+<details closed>
+<summary>
+
 ### Foundational C# with Microsoft Certification Exam
+
+</summary>
 
 Use what you've learned to pass the exam to earn your Foundational C# with Microsoft Certification.
 
 - [ ] Foundational C# with Microsoft Certification Exam
+
+</details>
 
 ## References & Resources
 
