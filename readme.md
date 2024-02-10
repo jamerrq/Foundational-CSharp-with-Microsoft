@@ -3,9 +3,13 @@
 # Foundational C# with Microsoft
 ![Foundational C# with Microsoft](https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg)
 
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
+
+![](https://progress-bar.dev/60/?title=progress&width=400)
+
 </div>
 
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
 This course offers a comprehensive introduction to C# programming, covering its
 core concepts, syntax, and practical application in software development.

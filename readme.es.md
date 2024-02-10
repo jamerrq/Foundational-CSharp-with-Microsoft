@@ -1,6 +1,14 @@
+<div align="center">
+
 # Fundamentos de C# con Microsoft
+![Foundational C# with Microsoft](https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg)
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
+
+![](https://progress-bar.dev/60/?title=progress&width=400)
+
+</div>
 
 Este curso ofrece una introducción completa a la programación en C#, cubriendo
 sus conceptos fundamentales, sintaxis y aplicación práctica en el desarrollo de
@@ -13,9 +21,6 @@ programación orientada a objetos.
 Al final de este curso, habrás  adquirido las habilidades prácticas y el
 conocimiento necesario para utilizar C# con confianza en la construcción de
 aplicaciones.
-
-![Foundational C# with
-Microsoft](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/08/cert-page.png)
 
 ## Contenido
 
