@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/60/?title=progress&width=400)
+![](https://progress-bar.dev/62/?title=progress&width=400)
 
 </div>
 
@@ -94,7 +94,7 @@ variables y manejo de datos.
 - [X] Convierte tipos de datos usando técnicas de conversión y conversión en C\#
 - [X] Realiza operaciones en matrices usando métodos auxiliares en C\#
 - [X] Dale formato a datos alfanuméricos para su presentación en C\#
-- [ ] Modifica el contenido de las cadenas usando métodos de tipo de datos de
+- [X] Modifica el contenido de las cadenas usando métodos de tipo de datos de
   cadena incorporados en C\#
 - [ ] Proyecto guiado - Trabaja con datos de variables en C\#
 - [ ] Proyecto de desafío - Trabaja con datos de variables en C\#

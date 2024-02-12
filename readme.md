@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/60/?title=progress&width=400)
+![](https://progress-bar.dev/62/?title=progress&width=400)
 
 </div>
 
@@ -116,7 +116,7 @@ text, as you delve into the essential concepts of variables and data handling.
 - [X] Convert Data Types Using Casting and Conversion Techniques in C#
 - [X] Perform Operations on Arrays Using Helper Methods in C#
 - [X] Format Alphanumeric Data for Presentation in C#
-- [ ] Modify the Content of Strings Using Built-In String Data Type Methods in
+- [X] Modify the Content of Strings Using Built-In String Data Type Methods in
   C#
 - [ ] Guided Project - Work with Variable Data in C#
 - [ ] Challenge Project - Work with Variable Data in C#
