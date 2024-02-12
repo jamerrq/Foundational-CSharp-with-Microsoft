@@ -31,6 +31,7 @@ knowledge needed to confidently leverage C# for building applications.
 
 </summary>
 
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 Begin your journey by learning to write your first code using C#. Develop a
 strong foundation as you explore the fundamentals and syntax of the language,
@@ -59,6 +60,8 @@ Master the art of creating and running simple C# console applications. Dive into
 the world of console-based programming, where you will gain hands-on experience
 executing your code and seeing it in action.
 
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
+
 - [X] Install and Configure Visual Studio Code for C# Development
 - [X] Call Methods From the .NET Class Library Using C#
 - [X] Add Decision Logic to Your Code Using if, else, and else if statements
@@ -86,6 +89,8 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 decision-making capabilities to your code, enabling your applications to make
 dynamic choices and respond intelligently to different scenarios.
 
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
+
 - [X] Evaluate Boolean Expressions to Make Decisions in C#
 - [X] Control Variable Scope and Logic Using Code Blocks in C#
 - [X] Branch the Flow of Code Using the switch-case Construct in C#
@@ -107,6 +112,8 @@ dynamic choices and respond intelligently to different scenarios.
 ### Work with Variable Data in C# Console Applications
 
 </summary>
+
+![progress](https://progress-bar.dev/63/?title=progress&width=400)
 
 Discover the versatility of variable data in C# console applications. Harness
 the ability to store and manipulate different types od data, such as numbers and
@@ -135,6 +142,8 @@ Take your C# console applications to the next level by mastering the art of
 creating methods. Learn how to organize and modularize your code making it more
 manageable, reusable, and efficient.
 
+![progress](https://progress-bar.dev/0/?title=progress&width=400)
+
 - [ ] Write Your First C# Method
 - [ ] Create C# Methods with Parameters
 - [ ] Create C# Methods that Return Values
@@ -154,6 +163,8 @@ manageable, reusable, and efficient.
 Sharpen your troubleshooting skills as you dive into the world of debugging C#
 console applications. Gain the ability to identify and fix issues in your code,
 ensuring your applications run smoothly and deliver the desired results.
+
+![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
 - [ ] Review the Principles of Code Debugging and Exception Handling
 - [ ] Implement the Visual Studio Code Debugging Tools for C#
@@ -175,6 +186,8 @@ ensuring your applications run smoothly and deliver the desired results.
 </summary>
 
 Use what you've learned to pass the exam to earn your Foundational C# with Microsoft Certification.
+
+![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
 - [ ] Foundational C# with Microsoft Certification Exam
 

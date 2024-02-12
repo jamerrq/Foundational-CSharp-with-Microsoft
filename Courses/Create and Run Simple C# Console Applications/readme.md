@@ -4,6 +4,8 @@ Master the art of creating and running simple C# console applications. Dive into
 the world of console-based programming, where you will gain hands-on experience
 executing your code and seeing it in action.
 
+![](https://progress-bar.dev/100/?title=progress&width=400)
+
 ## Modules
 
 - [X] Install and Configure Visual Studio Code for C# Development

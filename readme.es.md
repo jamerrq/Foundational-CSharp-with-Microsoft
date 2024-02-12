@@ -30,6 +30,8 @@ Empieza tu viaje aprendiendo a escribir tu primer código usando C#. Desarrolla
 una base sólida mientras exploras los fundamentos y la sintaxis del lenguaje,
 preparando el escenario para tus aventuras de programación.
 
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
+
 - [X] Escribe tu primer código usando C\#
 - [X] Almacena y recupera datos usando valores literales y variables en C\#
 - [X] Realiza formato básico de cadenas en C\#
@@ -45,6 +47,8 @@ preparando el escenario para tus aventuras de programación.
 Master the art of creating and running simple C# console applications. Dive into
 the world of console-based programming, where you will gain hands-on experience
 executing your code and seeing it in action.
+
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 - [X] Install and Configure Visual Studio Code for C# Development
 - [X] Call Methods From the .NET Class Library Using C#
@@ -68,6 +72,8 @@ cómo agregar lógica y capacidades de toma de decisiones a tu código, lo que
 permite que tus aplicaciones tomen decisiones dinámicas y respondan
 inteligentemente a diferentes escenarios.
 
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
+
 - [X] Evalúa expresiones booleanas para tomar decisiones en C\#
 - [X] Controla el alcance de las variables y la lógica usando bloques de código
   en C\#
@@ -90,6 +96,8 @@ C\#. Aprovecha la capacidad de almacenar y manipular diferentes tipos de datos,
 como números y texto, a medida que profundizas en los conceptos esenciales de
 variables y manejo de datos.
 
+![progress](https://progress-bar.dev/63/?title=progress&width=400)
+
 - [X] Elije el tipo de datos correcto en tu código C\#
 - [X] Convierte tipos de datos usando técnicas de conversión y conversión en C\#
 - [X] Realiza operaciones en matrices usando métodos auxiliares en C\#
@@ -106,6 +114,8 @@ Lleva tus aplicaciones de consola de C\# al siguiente nivel dominando el arte de
 crear métodos. Aprende a organizar y modularizar tu código haciéndolo más
 manejable, reutilizable y eficiente.
 
+![progress](https://progress-bar.dev/0/?title=progress&width=400)
+
 - [ ] Escribe tu primer método C\#
 - [ ] Crea métodos C\# con parámetros
 - [ ] Crea métodos C\# que devuelvan valores
@@ -119,6 +129,8 @@ Afina tus habilidades de solución de problemas mientras te sumerges en el mundo
 de la depuración de aplicaciones de consola de C\#. Adquiere la capacidad de
 identificar y solucionar problemas en tu código, asegurando que tus aplicaciones
 funcionen sin problemas y entreguen los resultados deseados.
+
+![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
 - [ ] Revisa los principios de depuración de código y manejo de excepciones
 - [ ] Implementa las herramientas de depuración de código de Visual Studio para
@@ -135,6 +147,8 @@ funcionen sin problemas y entreguen los resultados deseados.
 
 Utiliza lo que has aprendido para aprobar el examen y obtener tu certificación
 de Fundamentos de C# con Microsoft.
+
+![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
 - [ ] Examen de certificación de Fundamentos de C# con Microsoft
 

@@ -4,6 +4,8 @@ Begin your journey by learning to write your first code using C#. Develop a
 strong foundation as you explore the fundamentals and syntax of the language,
 setting the stage for your programming adventures.
 
+![](https://progress-bar.dev/100/?title=progress&width=400)
+
 ## Modules
 
 - [X] Write Your First C# Code

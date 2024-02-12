@@ -4,6 +4,8 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 decision-making capabilities to your code, enabling your applications to make
 dynamic choices and respond intelligently to different scenarios.
 
+![](https://progress-bar.dev/100/?title=progress&width=400)
+
 ## Modules
 
 - [X] Evaluate Boolean Expressions to Make Decisions in C#
