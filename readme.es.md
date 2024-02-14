@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/62/?title=progress&width=400)
+![](https://progress-bar.dev/64/?title=progress&width=400)
 
 </div>
 
@@ -42,26 +42,27 @@ preparando el escenario para tus aventuras de programación.
 
 ![Write Your First Code Using C#](./imgs/trophies/1.png)
 
-### Create and Run Simple C# Console Applications
+### Crea y ejecuta aplicaciones de consola de C\# simples
 
-Master the art of creating and running simple C# console applications. Dive into
-the world of console-based programming, where you will gain hands-on experience
-executing your code and seeing it in action.
+Dominar el arte de crear y ejecutar aplicaciones de consola de C# simples. Sumérgete
+en el mundo de la programación basada en consola, donde obtendrás experiencia
+práctica ejecutando tu código y viéndolo en acción.
 
 ![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
-- [X] Install and Configure Visual Studio Code for C# Development
-- [X] Call Methods From the .NET Class Library Using C#
-- [X] Add Decision Logic to Your Code Using if, else, and else if statements in
+- [X] Instala y configura Visual Studio Code para el desarrollo de C#
+- [X] Llama a métodos de la biblioteca de clases .NET usando C#
+- [X] Agrega lógica de decisión a tu código usando las instrucciones if, else y
+  else if en C#
+- [X] Almacena e itera a través de secuencias de datos usando matrices y la
+  instrucción foreach en C#
+- [X] Crea un código legible con convenciones, espacios en blanco y comentarios
+  en C#
+- [X] Proyecto guiado - Desarrolla estructuras de ramificación y bucle
+  condicionales en C#
+- [X] Proyecto de desafío - Desarrolla estructuras de ramificación y bucle en
   C#
-- [X] Store and Iterate Through Sequences of Data Using Arrays and the foreach
-  Statement in C#
-- [X] Create Readable Code with Conventions, Whitespace, and Comments in C#
-- [X] Guided Project - Develop foreach and if-elseif-else Structures to Process
-  Array Data in C#
-- [X] Challenge Project - Develop foreach and if-elseif-else Structures to
-  Process Array Data in C#
-- [X] Trophy - Create and Run Simple C# Console Applications
+- [X] Trofeo - Crea y ejecuta aplicaciones de consola de C# simples
 
 ![Create and Run Simple C# Console Applications](./imgs/trophies/2.png)
 
@@ -96,7 +97,7 @@ C\#. Aprovecha la capacidad de almacenar y manipular diferentes tipos de datos,
 como números y texto, a medida que profundizas en los conceptos esenciales de
 variables y manejo de datos.
 
-![progress](https://progress-bar.dev/63/?title=progress&width=400)
+![progress](https://progress-bar.dev/75/?title=progress&width=400)
 
 - [X] Elije el tipo de datos correcto en tu código C\#
 - [X] Convierte tipos de datos usando técnicas de conversión y conversión en C\#
@@ -104,7 +105,7 @@ variables y manejo de datos.
 - [X] Dale formato a datos alfanuméricos para su presentación en C\#
 - [X] Modifica el contenido de las cadenas usando métodos de tipo de datos de
   cadena incorporados en C\#
-- [ ] Proyecto guiado - Trabaja con datos de variables en C\#
+- [X] Proyecto guiado - Trabaja con datos de variables en C\#
 - [ ] Proyecto de desafío - Trabaja con datos de variables en C\#
 - [ ] Trofeo - Trabaja con datos de variables en aplicaciones de consola de C\#
 

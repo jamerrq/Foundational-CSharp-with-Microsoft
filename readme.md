@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/62/?title=progress&width=400)
+![](https://progress-bar.dev/64/?title=progress&width=400)
 
 </div>
 
@@ -113,7 +113,7 @@ dynamic choices and respond intelligently to different scenarios.
 
 </summary>
 
-![progress](https://progress-bar.dev/63/?title=progress&width=400)
+![progress](https://progress-bar.dev/75/?title=progress&width=400)
 
 Discover the versatility of variable data in C# console applications. Harness
 the ability to store and manipulate different types od data, such as numbers and
@@ -125,7 +125,7 @@ text, as you delve into the essential concepts of variables and data handling.
 - [X] Format Alphanumeric Data for Presentation in C#
 - [X] Modify the Content of Strings Using Built-In String Data Type Methods in
   C#
-- [ ] Guided Project - Work with Variable Data in C#
+- [X] Guided Project - Work with Variable Data in C#
 - [ ] Challenge Project - Work with Variable Data in C#
 - [ ] Trophy - Work with Variable Data in C# Console Applications
 
