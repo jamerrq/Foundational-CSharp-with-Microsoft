@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/64/?title=progress&width=400)
+![](https://progress-bar.dev/69/?title=progress&width=400)
 
 </div>
 
@@ -97,7 +97,7 @@ C\#. Aprovecha la capacidad de almacenar y manipular diferentes tipos de datos,
 como números y texto, a medida que profundizas en los conceptos esenciales de
 variables y manejo de datos.
 
-![progress](https://progress-bar.dev/75/?title=progress&width=400)
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 - [X] Elije el tipo de datos correcto en tu código C\#
 - [X] Convierte tipos de datos usando técnicas de conversión y conversión en C\#
@@ -106,8 +106,10 @@ variables y manejo de datos.
 - [X] Modifica el contenido de las cadenas usando métodos de tipo de datos de
   cadena incorporados en C\#
 - [X] Proyecto guiado - Trabaja con datos de variables en C\#
-- [ ] Proyecto de desafío - Trabaja con datos de variables en C\#
-- [ ] Trofeo - Trabaja con datos de variables en aplicaciones de consola de C\#
+- [X] Proyecto de desafío - Trabaja con datos de variables en C\#
+- [X] Trofeo - Trabaja con datos de variables en aplicaciones de consola de C\#
+
+![Work with Variable Data in C# Console Applications](./imgs/trophies/4.png)
 
 ### Crea métodos en aplicaciones de consola de C\#
 

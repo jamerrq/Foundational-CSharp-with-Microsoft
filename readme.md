@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/64/?title=progress&width=400)
+![](https://progress-bar.dev/69/?title=progress&width=400)
 
 </div>
 
@@ -28,10 +28,10 @@ knowledge needed to confidently leverage C# for building applications.
 <summary>
 
 ### Write Your First Code Using C\#
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 </summary>
 
-![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 Begin your journey by learning to write your first code using C#. Develop a
 strong foundation as you explore the fundamentals and syntax of the language,
@@ -53,6 +53,7 @@ setting the stage for your programming adventures.
 <summary>
 
 ### Create and Run Simple C# Console Applications
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 </summary>
 
@@ -60,7 +61,6 @@ Master the art of creating and running simple C# console applications. Dive into
 the world of console-based programming, where you will gain hands-on experience
 executing your code and seeing it in action.
 
-![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 - [X] Install and Configure Visual Studio Code for C# Development
 - [X] Call Methods From the .NET Class Library Using C#
@@ -82,6 +82,7 @@ executing your code and seeing it in action.
 <summary>
 
 ### Add Logic to C# Console Applications
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 </summary>
 
@@ -89,7 +90,6 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 decision-making capabilities to your code, enabling your applications to make
 dynamic choices and respond intelligently to different scenarios.
 
-![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 - [X] Evaluate Boolean Expressions to Make Decisions in C#
 - [X] Control Variable Scope and Logic Using Code Blocks in C#
@@ -106,14 +106,13 @@ dynamic choices and respond intelligently to different scenarios.
 
 </details>
 
-<details open>
+<details closed>
 <summary>
 
 ### Work with Variable Data in C# Console Applications
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 </summary>
-
-![progress](https://progress-bar.dev/75/?title=progress&width=400)
 
 Discover the versatility of variable data in C# console applications. Harness
 the ability to store and manipulate different types od data, such as numbers and
@@ -126,8 +125,10 @@ text, as you delve into the essential concepts of variables and data handling.
 - [X] Modify the Content of Strings Using Built-In String Data Type Methods in
   C#
 - [X] Guided Project - Work with Variable Data in C#
-- [ ] Challenge Project - Work with Variable Data in C#
-- [ ] Trophy - Work with Variable Data in C# Console Applications
+- [X] Challenge Project - Work with Variable Data in C#
+- [X] Trophy - Work with Variable Data in C# Console Applications
+
+![Work with Variable Data in C# Console Applications](./imgs/trophies/4.png)
 
 </details>
 
