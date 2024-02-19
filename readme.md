@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/69/?title=progress&width=400)
+![](https://progress-bar.dev/71/?title=progress&width=400)
 
 </div>
 
@@ -132,7 +132,7 @@ text, as you delve into the essential concepts of variables and data handling.
 
 </details>
 
-<details closed>
+<details open>
 <summary>
 
 ### Create Methods in C# Console Applications
@@ -143,9 +143,9 @@ Take your C# console applications to the next level by mastering the art of
 creating methods. Learn how to organize and modularize your code making it more
 manageable, reusable, and efficient.
 
-![progress](https://progress-bar.dev/0/?title=progress&width=400)
+![progress](https://progress-bar.dev/17/?title=progress&width=400)
 
-- [ ] Write Your First C# Method
+- [X] Write Your First C# Method
 - [ ] Create C# Methods with Parameters
 - [ ] Create C# Methods that Return Values
 - [ ] Guided Project - Plan a Petting Zoo Visit

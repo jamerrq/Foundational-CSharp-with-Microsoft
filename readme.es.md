@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/69/?title=progress&width=400)
+![](https://progress-bar.dev/71/?title=progress&width=400)
 
 </div>
 
@@ -117,9 +117,9 @@ Lleva tus aplicaciones de consola de C\# al siguiente nivel dominando el arte de
 crear métodos. Aprende a organizar y modularizar tu código haciéndolo más
 manejable, reutilizable y eficiente.
 
-![progress](https://progress-bar.dev/0/?title=progress&width=400)
+![progress](https://progress-bar.dev/17/?title=progress&width=400)
 
-- [ ] Escribe tu primer método C\#
+- [X] Escribe tu primer método C\#
 - [ ] Crea métodos C\# con parámetros
 - [ ] Crea métodos C\# que devuelvan valores
 - [ ] Proyecto guiado - Planifica una visita al zoológico de mascotas
