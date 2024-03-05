@@ -155,7 +155,8 @@ while (current >= 3)
 Console.WriteLine($"Last number: {current}");
 ```
 
-> [!NOTE] In this case, we position the `while` keyword and the Boolean
+> [!NOTE]
+> In this case, we position the `while` keyword and the Boolean
 > expression before the code block. This changes the meaning of the code and
 > acts as a "gate" to only allow the flow of execution to enter if the Boolean
 > expression evaluates to true.
@@ -398,7 +399,8 @@ specified conditions in order to choose between the `do-while` and `while`
 statements. You can switch after you start if your first choice isn't working
 out as well as you had hoped.
 
-> [!NOTE] The conditions for your coding project can be used to help you select
+> [!NOTE]
+> The conditions for your coding project can be used to help you select
 > between the `do-while` and `while` statements. What you know, or don't know, about
 > the Boolean expression that will be evaluated can sometimes help you to select
 > between the `do-while` and `while` statements. In this challenge exercise, the

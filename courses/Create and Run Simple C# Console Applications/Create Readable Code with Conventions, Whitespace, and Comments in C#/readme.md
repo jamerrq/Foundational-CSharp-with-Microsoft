@@ -163,7 +163,8 @@ code).
   concern. Rather than ignoring the new concern, you can mark it for
   investigation later.
 
->[!NOTE] Code comments should be used to say what the code cannot. Often,
+>[!NOTE]
+> Code comments should be used to say what the code cannot. Often,
 > developers update their code but forget to update the code comments. It's best
 > to use comments for higher-level ideas and not to add comments about how an
 > individual line of code works.

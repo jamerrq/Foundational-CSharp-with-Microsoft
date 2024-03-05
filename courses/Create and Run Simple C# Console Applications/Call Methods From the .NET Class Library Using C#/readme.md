@@ -26,7 +26,8 @@ methods you want to work with.
 By the end of this module, you'll know how to find classes and methods in the
 .NET Class Library, and how yo use them to perform common programming tasks.
 
-> [!NOTE] This module includes coding activities that require Visual Studio
+> [!NOTE]
+> This module includes coding activities that require Visual Studio
 > Code. You'll need access to a development environment that has Visual Studio
 > installed and configured for C# application development.
 
@@ -228,7 +229,8 @@ One approach for determining whether a method is stateful or stateless is to
 consult the documentation. The documentation includes examples that show whether
 the method must be called from the object instance or directly from the class.
 
-> [!NOTE] You may need to scroll down on the documentation page to find the code
+> [!NOTE]
+> You may need to scroll down on the documentation page to find the code
 > examples.
 
 As an alternative to searching through product documentation, you can attempt to
@@ -308,7 +310,8 @@ the Next() method is so that you can retrieve the next random value.
 The information consumed by a method is called a parameter. A method can use one
 or more parameters to accomplish its task, or none at all.
 
-> [!NOTE] Often times, the terms 'parameter' and 'argument' are used
+> [!NOTE]
+> Often times, the terms 'parameter' and 'argument' are used
 > interchangeably. However, 'parameter' refers to the variable that's being used
 > inside the method. An 'argument' is the value that's passed when the method is
 > called.
@@ -345,7 +348,8 @@ work. If you tried, the C# compiler would catch your mistake and force a code
 modification before your code will compile and run. Type checking is one way
 that C# and .NET uses to prevent end-users from experiencing errors at runtime.
 
-> [!NOTE] Although input parameters are often used, not all methods require
+> [!NOTE]
+> Although input parameters are often used, not all methods require
 > input parameters to complete their task. For example, the Console class
 > includes a Console.Clear() method that doesn't use input parameters. Since
 > this method is used to clear any information displayed in the console, it
