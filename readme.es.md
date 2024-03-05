@@ -117,10 +117,10 @@ Lleva tus aplicaciones de consola de C\# al siguiente nivel dominando el arte de
 crear métodos. Aprende a organizar y modularizar tu código haciéndolo más
 manejable, reutilizable y eficiente.
 
-![progress](https://progress-bar.dev/17/?title=progress&width=400)
+![progress](https://progress-bar.dev/33/?title=progress&width=400)
 
 - [X] Escribe tu primer método C\#
-- [ ] Crea métodos C\# con parámetros
+- [X] Crea métodos C\# con parámetros
 - [ ] Crea métodos C\# que devuelvan valores
 - [ ] Proyecto guiado - Planifica una visita al zoológico de mascotas
 - [ ] Proyecto de desafío - Crea un mini-juego
