@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/73/?title=progress&width=400)
+![](https://progress-bar.dev/78/?title=progress&width=400)
 
 </div>
 
@@ -147,8 +147,8 @@ manageable, reusable, and efficient.
 
 - [X] Write Your First C# Method
 - [X] Create C# Methods with Parameters
-- [ ] Create C# Methods that Return Values
-- [ ] Guided Project - Plan a Petting Zoo Visit
+- [X] Create C# Methods that Return Values
+- [X] Guided Project - Plan a Petting Zoo Visit
 - [ ] Challenge Project - Create a Mini-Game
 - [ ] Trophy - Create Methods in C# Console Applications
 
