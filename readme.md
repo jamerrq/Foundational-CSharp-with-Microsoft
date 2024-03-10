@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/78/?title=progress&width=400)
+![](https://progress-bar.dev/82/?title=progress&width=400)
 
 </div>
 
@@ -24,7 +24,7 @@ knowledge needed to confidently leverage C# for building applications.
 
 ## Courses
 
-<details closed>
+<details >
 <summary>
 
 ### Write Your First Code Using C\#
@@ -49,7 +49,7 @@ setting the stage for your programming adventures.
 
 </details>
 
-<details closed>
+<details >
 <summary>
 
 ### Create and Run Simple C# Console Applications
@@ -78,7 +78,7 @@ executing your code and seeing it in action.
 
 </details>
 
-<details closed>
+<details >
 <summary>
 
 ### Add Logic to C# Console Applications
@@ -106,7 +106,7 @@ dynamic choices and respond intelligently to different scenarios.
 
 </details>
 
-<details closed>
+<details >
 <summary>
 
 ### Work with Variable Data in C# Console Applications
@@ -132,10 +132,12 @@ text, as you delve into the essential concepts of variables and data handling.
 
 </details>
 
-<details open>
+<details>
 <summary>
 
 ### Create Methods in C# Console Applications
+
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 </summary>
 
@@ -143,18 +145,19 @@ Take your C# console applications to the next level by mastering the art of
 creating methods. Learn how to organize and modularize your code making it more
 manageable, reusable, and efficient.
 
-![progress](https://progress-bar.dev/67/?title=progress&width=400)
 
 - [X] Write Your First C# Method
 - [X] Create C# Methods with Parameters
 - [X] Create C# Methods that Return Values
 - [X] Guided Project - Plan a Petting Zoo Visit
-- [ ] Challenge Project - Create a Mini-Game
-- [ ] Trophy - Create Methods in C# Console Applications
+- [X] Challenge Project - Create a Mini-Game
+- [X] Trophy - Create Methods in C# Console Applications
+
+![Create Methods in C# Console Applications](./imgs/trophies/5.png)
 
 </details>
 
-<details closed>
+<details >
 <summary>
 
 ### Debug C# Console Applications
@@ -179,7 +182,7 @@ ensuring your applications run smoothly and deliver the desired results.
 
 </details>
 
-<details closed>
+<details >
 <summary>
 
 ### Foundational C# with Microsoft Certification Exam
@@ -187,8 +190,6 @@ ensuring your applications run smoothly and deliver the desired results.
 </summary>
 
 Use what you've learned to pass the exam to earn your Foundational C# with Microsoft Certification.
-
-![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
 - [ ] Foundational C# with Microsoft Certification Exam
 

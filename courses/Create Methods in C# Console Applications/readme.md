@@ -8,5 +8,5 @@ Take your C# console applications to the next level by mastering the art of crea
 - [X] Create C# Methods with Parameters
 - [X] Create C# Methods that Return Values
 - [X] Guided Project - Plan a Petting Zoo Visit
-- [ ] Challenge Project - Create a Mini-Game
-- [ ] Trophy - Create Methods in C# Console Applications
+- [X] Challenge Project - Create a Mini-Game
+- [X] Trophy - Create Methods in C# Console Applications

@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/78/?title=progress&width=400)
+![](https://progress-bar.dev/82/?title=progress&width=400)
 
 </div>
 
@@ -117,14 +117,14 @@ Lleva tus aplicaciones de consola de C\# al siguiente nivel dominando el arte de
 crear métodos. Aprende a organizar y modularizar tu código haciéndolo más
 manejable, reutilizable y eficiente.
 
-![progress](https://progress-bar.dev/67/?title=progress&width=400)
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 - [X] Escribe tu primer método C\#
 - [X] Crea métodos C\# con parámetros
 - [X] Crea métodos C\# que devuelvan valores
 - [X] Proyecto guiado - Planifica una visita al zoológico de mascotas
-- [ ] Proyecto de desafío - Crea un mini-juego
-- [ ] Trofeo - Crea métodos en aplicaciones de consola de C\#
+- [X] Proyecto de desafío - Crea un mini-juego
+- [X] Trofeo - Crea métodos en aplicaciones de consola de C\#
 
 ### Depura aplicaciones de consola de C\#
 
@@ -150,8 +150,6 @@ funcionen sin problemas y entreguen los resultados deseados.
 
 Utiliza lo que has aprendido para aprobar el examen y obtener tu certificación
 de Fundamentos de C# con Microsoft.
-
-![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
 - [ ] Examen de certificación de Fundamentos de C# con Microsoft
 
