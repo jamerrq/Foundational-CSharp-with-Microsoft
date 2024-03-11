@@ -18,4 +18,4 @@ setting the stage for your programming adventures.
 
 ## Achievement
 
-![Write Your First Code Using C#](../imgs/trophies/1.png)
+![Write Your First Code Using C#](../../imgs/trophies/1.png)

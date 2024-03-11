@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/82/?title=progress&width=400)
+![](https://progress-bar.dev/84/?title=progress&width=400)
 
 </div>
 
@@ -157,10 +157,12 @@ manageable, reusable, and efficient.
 
 </details>
 
-<details >
+<details open>
 <summary>
 
 ### Debug C# Console Applications
+
+![progress](https://progress-bar.dev/14/?title=progress&width=400)
 
 </summary>
 
@@ -168,9 +170,8 @@ Sharpen your troubleshooting skills as you dive into the world of debugging C#
 console applications. Gain the ability to identify and fix issues in your code,
 ensuring your applications run smoothly and deliver the desired results.
 
-![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
-- [ ] Review the Principles of Code Debugging and Exception Handling
+- [X] Review the Principles of Code Debugging and Exception Handling
 - [ ] Implement the Visual Studio Code Debugging Tools for C#
 - [ ] Implement Exception Handling in C# Console Applications
 - [ ] Create and Throw Exceptions in C# Console Applications

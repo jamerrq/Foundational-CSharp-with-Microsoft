@@ -20,4 +20,4 @@ executing your code and seeing it in action.
 
 ## Achievement
 
-![Create and Run Simple C# Console Applications](../imgs/trophies/2.png)
+![Create and Run Simple C# Console Applications](../../imgs/trophies/2.png)

@@ -15,3 +15,7 @@ text, as you delve into the essential concepts of variables and data handling.
 - [X] Guided Project - Work with Variable Data in C#
 - [X] Challenge Project - Work with Variable Data in C#
 - [X] Trophy - Work with Variable Data in C# Console Applications
+
+## Achievement
+
+![Create and Run Simple C# Console Applications](../../imgs/trophies/2.png)

@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/82/?title=progress&width=400)
+![](https://progress-bar.dev/84/?title=progress&width=400)
 
 </div>
 
@@ -135,7 +135,7 @@ funcionen sin problemas y entreguen los resultados deseados.
 
 ![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
-- [ ] Revisa los principios de depuración de código y manejo de excepciones
+- [X] Revisa los principios de depuración de código y manejo de excepciones
 - [ ] Implementa las herramientas de depuración de código de Visual Studio para
   C\#
 - [ ] Implementa el manejo de excepciones en aplicaciones de consola de C\#

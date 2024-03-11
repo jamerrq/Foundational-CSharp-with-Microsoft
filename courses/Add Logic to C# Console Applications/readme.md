@@ -16,3 +16,7 @@ dynamic choices and respond intelligently to different scenarios.
 - [X] Guided Project - Develop Conditional Branching and Looping Structures in C#
 - [X] Challenge Project - Develop Branching and Looping Structures in C#
 - [X] Trophy - Add Logic to C# Console Applications
+
+## Achievement
+
+![Create and Run Simple C# Console Applications](../../imgs/trophies/3.png)
