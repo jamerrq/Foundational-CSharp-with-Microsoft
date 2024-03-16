@@ -136,7 +136,7 @@ funcionen sin problemas y entreguen los resultados deseados.
 ![progress](https://progress-bar.dev/0/?title=progress&width=400)
 
 - [X] Revisa los principios de depuración de código y manejo de excepciones
-- [ ] Implementa las herramientas de depuración de código de Visual Studio para
+- [X] Implementa las herramientas de depuración de código de Visual Studio para
   C\#
 - [ ] Implementa el manejo de excepciones en aplicaciones de consola de C\#
 - [ ] Crea y lanza excepciones en aplicaciones de consola de C\#
