@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/93/?title=progress&width=400)
+![](https://progress-bar.dev/98/?title=progress&width=400)
 
 </div>
 
@@ -157,12 +157,12 @@ manageable, reusable, and efficient.
 
 </details>
 
-<details open>
+<details>
 <summary>
 
 ### Debug C# Console Applications
 
-![progress](https://progress-bar.dev/71/?title=progress&width=400)
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 </summary>
 
@@ -177,9 +177,11 @@ ensuring your applications run smoothly and deliver the desired results.
 - [X] Create and Throw Exceptions in C# Console Applications
 - [X] Guided Project - Debug and Handle Exceptions in a C# Console Application
   Using Visual Studio Code
-- [ ] Challenge Project - Debug a C# Console Application Using Visual Studio
+- [X] Challenge Project - Debug a C# Console Application Using Visual Studio
   Code
-- [ ] Trophy - Debug C# Console Applications
+- [X] Trophy - Debug C# Console Applications
+
+![Debug C# Console Applications](./imgs/trophies/6.png)
 
 </details>
 

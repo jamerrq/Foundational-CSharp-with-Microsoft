@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/93/?title=progress&width=400)
+![](https://progress-bar.dev/98/?title=progress&width=400)
 
 </div>
 
@@ -133,7 +133,7 @@ de la depuración de aplicaciones de consola de C\#. Adquiere la capacidad de
 identificar y solucionar problemas en tu código, asegurando que tus aplicaciones
 funcionen sin problemas y entreguen los resultados deseados.
 
-![progress](https://progress-bar.dev/71/?title=progress&width=400)
+![progress](https://progress-bar.dev/100/?title=progress&width=400)
 
 - [X] Revisa los principios de depuración de código y manejo de excepciones
 - [X] Implementa las herramientas de depuración de código de Visual Studio para
@@ -142,9 +142,12 @@ funcionen sin problemas y entreguen los resultados deseados.
 - [X] Crea y lanza excepciones en aplicaciones de consola de C\#
 - [X] Proyecto guiado - Depura y maneja excepciones en una aplicación de consola
   de C\# usando Visual Studio Code
-- [ ] Proyecto de desafío - Depura una aplicación de consola de C\# usando
+- [X] Proyecto de desafío - Depura una aplicación de consola de C\# usando
   Visual Studio Code
-- [ ] Trofeo - Depura aplicaciones de consola de C\#
+- [X] Trofeo - Depura aplicaciones de consola de C\#
+
+![Depura aplicaciones de consola de C\#](./imgs/trophies/6.png)
+
 
 ### Fundamentos de C# con Microsoft - Examen de certificación
 
