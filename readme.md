@@ -6,7 +6,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-![](https://progress-bar.dev/98/?title=progress&width=400)
+![](https://progress-bar.dev/100/?title=progress&width=400)
 
 </div>
 
@@ -194,9 +194,11 @@ ensuring your applications run smoothly and deliver the desired results.
 
 Use what you've learned to pass the exam to earn your Foundational C# with Microsoft Certification.
 
-- [ ] Foundational C# with Microsoft Certification Exam
+- [X] Foundational C# with Microsoft Certification Exam
 
 </details>
+
+![certification](imgs/certification.png)
 
 ## References & Resources
 

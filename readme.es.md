@@ -6,7 +6,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 
-![](https://progress-bar.dev/98/?title=progress&width=400)
+![](https://progress-bar.dev/100/?title=progress&width=400)
 
 </div>
 
@@ -154,7 +154,7 @@ funcionen sin problemas y entreguen los resultados deseados.
 Utiliza lo que has aprendido para aprobar el examen y obtener tu certificación
 de Fundamentos de C# con Microsoft.
 
-- [ ] Examen de certificación de Fundamentos de C# con Microsoft
+- [X] Examen de certificación de Fundamentos de C# con Microsoft
 
 ## Referencias y recursos
 
